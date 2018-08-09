@@ -16,6 +16,7 @@
 		0303ABD421188A0F009FC26A /* RoadtripUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0303ABD321188A0F009FC26A /* RoadtripUITests.swift */; };
 		0304D77D211B5C2F00425796 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0304D77C211B5C2F00425796 /* PageViewController.swift */; };
 		0304D77F211B7B4700425796 /* YouViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0304D77E211B7B4700425796 /* YouViewController.swift */; };
+		03B4E442211B89C90056CB1A /* DestinationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03B4E441211B89C90056CB1A /* DestinationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		0303ABD521188A0F009FC26A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0304D77C211B5C2F00425796 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		0304D77E211B7B4700425796 /* YouViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YouViewController.swift; sourceTree = "<group>"; };
+		03B4E441211B89C90056CB1A /* DestinationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				0303ABB521188A0D009FC26A /* ViewController.swift */,
 				0304D77C211B5C2F00425796 /* PageViewController.swift */,
 				0304D77E211B7B4700425796 /* YouViewController.swift */,
+				03B4E441211B89C90056CB1A /* DestinationViewController.swift */,
 				0303ABB721188A0D009FC26A /* Main.storyboard */,
 				0303ABBA21188A0F009FC26A /* Assets.xcassets */,
 				0303ABBC21188A0F009FC26A /* LaunchScreen.storyboard */,
@@ -266,6 +269,7 @@
 				0303ABB621188A0D009FC26A /* ViewController.swift in Sources */,
 				0304D77F211B7B4700425796 /* YouViewController.swift in Sources */,
 				0303ABB421188A0D009FC26A /* AppDelegate.swift in Sources */,
+				03B4E442211B89C90056CB1A /* DestinationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

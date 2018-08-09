@@ -1,5 +1,5 @@
 //
-//  PageViewController.swift
+//  DestinationViewController.swift
 //  Roadtrip
 //
 //  Created by Kode With Klossy on 8/8/18.
@@ -8,13 +8,13 @@
 
 import UIKit
 
-class CharacterViewController: UIPageViewController, UIPageViewControllerDelegate, UIPageViewControllerDataSource {
+class DestinationViewController: UIPageViewController, UIPageViewControllerDelegate, UIPageViewControllerDataSource {
     
     lazy var orderedViewControllers: [UIViewController] = {
-        return [self.newVc(viewController: "Character1"),
-                self.newVc(viewController: "Character2"),
-                self.newVc(viewController: "Character3"),
-                self.newVc(viewController: "Character4")]
+        return [self.newVc(viewController: "DestinationHome"),
+                self.newVc(viewController: "Destination1"),
+                self.newVc(viewController: "Destination2"),
+                self.newVc(viewController: "Destination3")]
     }()
     
     func newVc(viewController: String) -> UIViewController {
@@ -78,6 +78,4 @@ class CharacterViewController: UIPageViewController, UIPageViewControllerDelegat
         
         return orderedViewControllers[nextIndex]
     }
-    
-
 }
