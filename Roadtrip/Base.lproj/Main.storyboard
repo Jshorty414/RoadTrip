@@ -186,9 +186,10 @@
                                                         <rect key="frame" x="0.0" y="0.0" width="375" height="260"/>
                                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                                         <subviews>
-                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Mateo's Description" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cc5-h2-J5W">
-                                                                <rect key="frame" x="81" y="-67" width="227" height="173"/>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="6" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cc5-h2-J5W">
+                                                                <rect key="frame" x="23" y="0.0" width="330" height="203"/>
                                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                                <string key="text">Mateo is always shy at first but once you get him talking you won't be able to get him to stop. He loves books and binging Netflix.</string>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <color key="textColor" red="0.95114735630000002" green="0.96310192319999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                 <nil key="highlightedColor"/>
@@ -235,7 +236,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Dgy-0I-d41" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-5306" y="-674"/>
+            <point key="canvasLocation" x="-5306.3999999999996" y="-674.21289355322347"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="dde-Ph-ahc">
@@ -276,9 +277,10 @@
                                                         <rect key="frame" x="0.0" y="0.0" width="375" height="268"/>
                                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                                         <subviews>
-                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Annabelle's Description" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cXT-of-8Hi">
-                                                                <rect key="frame" x="67" y="-67" width="255" height="173"/>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="5" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cXT-of-8Hi">
+                                                                <rect key="frame" x="24" y="8" width="329" height="191"/>
                                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                                <string key="text">Annabelle is a fun loving free spirit who loves to be on the road. Put on some chill music and roll down the windows and she's in her element.</string>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <color key="textColor" red="0.95114735630000002" green="0.96310192319999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                                 <nil key="highlightedColor"/>
@@ -325,7 +327,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Gad-FS-iGS" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-4566" y="-676"/>
+            <point key="canvasLocation" x="-4567.1999999999998" y="-676.01199400299856"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="wd2-lg-mjB">
@@ -374,8 +376,8 @@
                                                         <rect key="frame" x="0.0" y="0.0" width="375" height="260"/>
                                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                                         <subviews>
-                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Jackie's Description" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XCR-cW-Qbo">
-                                                                <rect key="frame" x="81" y="-67" width="227" height="173"/>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Jackie is a gypsy detective up for anything that happens. She's very intelligent and great to talk to." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="5" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XCR-cW-Qbo">
+                                                                <rect key="frame" x="22" y="8" width="332" height="189"/>
                                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                                 <color key="textColor" red="0.95114735630000002" green="0.96310192319999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -426,7 +428,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="GL6-4P-qbW" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-3828" y="-674"/>
+            <point key="canvasLocation" x="-3828" y="-674.21289355322347"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="uNg-xm-oUE">
@@ -463,8 +465,8 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="375" height="260"/>
                                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                                 <subviews>
-                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Ford's Description" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Jdx-Xy-d1d">
-                                                        <rect key="frame" x="81" y="-67" width="227" height="173"/>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Ford Taylor is a mechanic who loves to garden and read books. He's very adventurous and a great travel buddy!" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="6" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Jdx-Xy-d1d">
+                                                        <rect key="frame" x="12" y="-29" width="350" height="232"/>
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                         <color key="textColor" red="0.95114735630000002" green="0.96310192319999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -511,7 +513,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="DH9-sb-4TB" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="553" y="-676"/>
+            <point key="canvasLocation" x="552.79999999999995" y="-676.01199400299856"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="ta4-4U-UFj">
@@ -3151,6 +3153,6 @@
         <segue reference="a0h-Ss-Eam"/>
         <segue reference="wIh-gt-IfE"/>
         <segue reference="9SE-d8-VeV"/>
-        <segue reference="Hsg-iP-YmP"/>
+        <segue reference="b6B-Kq-arL"/>
     </inferredMetricsTieBreakers>
 </document>
