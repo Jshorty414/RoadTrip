@@ -11,7 +11,8 @@ import UIKit
 class CharacterViewController: UIPageViewController, UIPageViewControllerDelegate, UIPageViewControllerDataSource {
     
     lazy var orderedViewControllers: [UIViewController] = {
-        return [self.newVc(viewController: "Character1"),
+        return [self.newVc(viewController: "chooseCharacter"),
+                self.newVc(viewController: "Character1"),
                 self.newVc(viewController: "Character2"),
                 self.newVc(viewController: "Character3"),
                 self.newVc(viewController: "Character4")]
